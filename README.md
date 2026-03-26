@@ -18,3 +18,10 @@ Performed data cleaning, feature engineering, and exploratory data analysis (EDA
 
 ## Dataset
 The dataset contains Premier League matches from 1993 to 2023.
+You can download it here: [Premier League Matches Dataset](https://www.kaggle.com/datasets/hugomathien/soccer)  
+
+## Library used 
+pandas
+numpy
+matplotlib
+seaborn
